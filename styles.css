@@ -1,0 +1,12 @@
+/* Cambiar color de botones */
+.btn-primary {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  /* Efecto hover en tarjetas */
+  .card:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s;
+  }
+  
